@@ -1,0 +1,11 @@
+.wrapper {
+    /* The image used */
+    background-image: linear-gradient(135.15deg, rgba(26, 37, 171, 0.95) -0.4%, rgba(6, 32, 92, 0.95) 25.58%, rgba(6, 32, 92, 0.95) 70.5%, rgba(234, 10, 42, 0.95) 98.16%), url('../assets/main-bg.svg');
+    min-height: 680px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
